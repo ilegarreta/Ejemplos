@@ -1,0 +1,9 @@
+c:\users\ilegarreta\documents\visual studio 2012\Projects\Ejemplo consulta Factura por API\Ejemplo consulta Factura por API\bin\Debug\Ejemplo consulta Factura por API.exe.config
+c:\users\ilegarreta\documents\visual studio 2012\Projects\Ejemplo consulta Factura por API\Ejemplo consulta Factura por API\obj\Debug\Ejemplo consulta Factura por API.csprojResolveAssemblyReference.cache
+c:\users\ilegarreta\documents\visual studio 2012\Projects\Ejemplo consulta Factura por API\Ejemplo consulta Factura por API\obj\Debug\Ejemplo_consulta_Factura_por_API.Form1.resources
+c:\users\ilegarreta\documents\visual studio 2012\Projects\Ejemplo consulta Factura por API\Ejemplo consulta Factura por API\obj\Debug\Ejemplo_consulta_Factura_por_API.Properties.Resources.resources
+c:\users\ilegarreta\documents\visual studio 2012\Projects\Ejemplo consulta Factura por API\Ejemplo consulta Factura por API\obj\Debug\Ejemplo consulta Factura por API.csproj.GenerateResource.Cache
+c:\users\ilegarreta\documents\visual studio 2012\Projects\Ejemplo consulta Factura por API\Ejemplo consulta Factura por API\bin\Debug\Ejemplo consulta Factura por API.exe
+c:\users\ilegarreta\documents\visual studio 2012\Projects\Ejemplo consulta Factura por API\Ejemplo consulta Factura por API\bin\Debug\Ejemplo consulta Factura por API.pdb
+c:\users\ilegarreta\documents\visual studio 2012\Projects\Ejemplo consulta Factura por API\Ejemplo consulta Factura por API\obj\Debug\Ejemplo consulta Factura por API.exe
+c:\users\ilegarreta\documents\visual studio 2012\Projects\Ejemplo consulta Factura por API\Ejemplo consulta Factura por API\obj\Debug\Ejemplo consulta Factura por API.pdb
